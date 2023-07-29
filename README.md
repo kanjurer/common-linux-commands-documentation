@@ -175,6 +175,12 @@ mkdir -p folder_1/folder_2/folder_3/folder_4
 
 ```
 
+## diff
+
+```bash
+
+```
+
 ## find
 
 ```bash

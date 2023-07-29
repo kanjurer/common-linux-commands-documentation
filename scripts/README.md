@@ -1,3 +1,5 @@
 # Scripts
 
-A list of bash scripts as supplement material
+## What are scripts?
+
+## What are Bash Scripts?
